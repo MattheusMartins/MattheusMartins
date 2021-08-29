@@ -28,7 +28,7 @@ Meu hobby é jogar online e design gráfico / 3D.
 - [x] Linux | Windows
 - [X] Photoshop | Illustrator | Maya | Blender | Lumion 
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <p>Eterno Estudande 📚</p>
 
