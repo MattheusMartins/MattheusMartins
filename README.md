@@ -26,8 +26,9 @@ Meu hobby é jogar online e design gráfico / 3D.
 - [x] Docker | Git
 - [x] IntelliJ IDEA | VSCode | DataGrip 
 - [x] Linux | Windows
-- [X] Photoshop | Illustrator | Maya | Blender | Lumion 
+- [X] Photoshop | Illustrator | Maya | Blender | Lumion
 
+## Contatos - Social 
 <div> 
   <a href="https://www.instagram.com/matt_theuz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusfarias.martins97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
