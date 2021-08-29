@@ -11,9 +11,9 @@ Tenho enorme curiosidade em saber como as coisas funcionam (Quem sabe um futuro 
 Meu hobby é jogar online e design gráfico / 3D.
  
 ### Formações
-- 🎓 Estudando Ciências da Computação na Universidade Nove de Julho
-- 🎓 Publicidade e Propaganda na Universidade Nove de Julho
-- 🎓 Jogos Digitais Faculdade Impacta de Tecnologia
+- 🎓 Estudando Ciências da Computação - Universidade Nove de Julho
+- 🎓 Publicidade e Propaganda - Universidade Nove de Julho
+- 🎓 Jogos Digitais - Faculdade Impacta de Tecnologia
  
 ### Principais Habilidades
 - [x] Angular | TypeScript | Angular JS | Javascript
