@@ -1,5 +1,5 @@
 ### Olâ, seja bem vindo! Meu nome é Matheus! serie seu guia.😄
-<img src="https://i.imgur.com/mTFbI5G.jpg" width="500" height="600">
+<img src="https://i.imgur.com/mTFbI5G.jpg" width="300" height="300">
 
 <!--
 **MattheusMartins/MattheusMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
