@@ -27,4 +27,4 @@ Meu hobby é jogar online e design gráfico / 3D.
 - [X] Photoshop | Illustrator | Maya | Blender | Lumion 
 
 
-<p>Eterno Estudande 📚</p>
+<p style="font-size:8px">Eterno Estudande 📚</p>
