@@ -25,3 +25,6 @@ Meu hobby é jogar online e design gráfico / 3D.
 - [x] IntelliJ IDEA | VSCode | DataGrip 
 - [x] Linux | Windows
 - [X] Photoshop | Illustrator | Maya | Blender | Lumion 
+
+
+<p>Eterno Estudande 📚</p>
