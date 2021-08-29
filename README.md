@@ -1,10 +1,9 @@
-# Matheus Martins de Farias 👨‍💻
+## Olâ, seja bem vindo 👋
 
 <p align="center"><img src="https://i.imgur.com/hFljwZt.gif"></p>
 <p align="center">wooow internet! :joy:</p>
  
-## Olá 👋
- 
+## Matheus Martins de Farias :vulcan_salute:
 Sou estudante de Ciências da Computação, moro em São Paulo, sou amante de tecnologia e apaixonado por conhecimento.
 
 Tenho enorme curiosidade em saber como as coisas funcionam (Quem sabe um futuro Pesquisador) e entusiasta de novas tecnologias, busco as tendências de mercado para estudo de novas tecnologias.
