@@ -1,7 +1,7 @@
 <h1><b> Olâ, seja bem vindo!</b></h1>
 
-Nome: Matheus Martins
-Localidade: São Paulo - Brasil
+- Nome: Matheus Martins
+- Localidade: São Paulo - Brasil
 <!--
 **MattheusMartins/MattheusMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
