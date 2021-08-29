@@ -1,4 +1,6 @@
 # Matheus Martins de Farias 👨‍💻
+
+<img url="https://i.imgur.com/hFljwZt.gif"style="width:128px;height:128px;">
  
 ## Olá 👋
  
