@@ -1,27 +1,22 @@
-## Olâ, seja bem vindo 👋
+## Olá, seja bem vindo 👋
 
 <p align="center"><img src="https://i.imgur.com/hFljwZt.gif"></p>
 <p align="center">wooow internet! :joy:</p>
  
 ## Matheus Martins de Farias :vulcan_salute:
-Sou estudante de Ciências da Computação, moro em São Paulo, sou amante de tecnologia e apaixonado por conhecimento.
-
-Tenho enorme curiosidade em saber como as coisas funcionam (Quem sabe um futuro Pesquisador) e entusiasta de novas tecnologias, busco as tendências de mercado para estudo de novas tecnologias.
-
-Meu hobby é jogar online e design gráfico / 3D.
+Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam (Quem sabe um futuro Pesquisador) e entusiasta de novas tecnologias, busco as tendências de mercado para estudo de novas tecnologias.
+Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
  
 ### Formações
-- 🎓 Estudando Ciências da Computação - Universidade Nove de Julho
-- 🎓 Publicidade e Propaganda - Universidade Nove de Julho
+- 🎓 Ciências da Computação - Universidade Nove de Julho
+- 🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
 - 🎓 Jogos Digitais - Faculdade Impacta de Tecnologia
  
 ### Principais Habilidades
-- [x] Angular | TypeScript | Angular JS | Javascript
+- [x] Angular | TypeScript | Angular JS | Javascript | React
 - [x] HTML | CSS
 - [x] Python | Django | Flask | Algumas Bibliotecas 
 - [x] Redes | Comunicação dos Computadores | Segurança das Máquinas | Servidores
-- [x] Ataques Externos e Internos | Comunicação | Protocolos de Comunicação | Técnicas de Segurança
-- [x] Apache Kafka | Apache ActiveMQ | HornetQ
 - [x] Postgres | Oracle | SQL Server | MySQL | DB2 
 - [x] Docker | Git
 - [x] IntelliJ IDEA | VSCode | DataGrip 
