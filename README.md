@@ -1,10 +1,11 @@
-## Olá, seja bem vindo 👋
+## Olá, seja bem vindo!  👋
 
 <p align="center"><img src="https://i.imgur.com/hFljwZt.gif"></p>
 <p align="center">wooow internet! :joy:</p>
  
 ## Matheus Martins de Farias :vulcan_salute:
-Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam (Quem sabe um futuro Pesquisador) e entusiasta de novas tecnologias, busco as tendências de mercado para estudo de novas tecnologias.
+Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam e entusiasta de novas tecnologias, busco as tendências de mercado para estudar novas tecnologias e manter atualizado.
+
 Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
  
 ### Formações
@@ -33,5 +34,6 @@ Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
  
 </div>
 <p>Eterno Estudande 📚</p>
+
 
 
