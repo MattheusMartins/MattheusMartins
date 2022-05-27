@@ -4,7 +4,7 @@
 <p align="center">wooow internet! :joy:</p>
  
 ## Matheus Martins de Farias :vulcan_salute:
-Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam e entusiasta de novas tecnologias, busco as tendências de mercado para estudar novas tecnologias e manter atualizado.
+Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Sou Desenvolvedor Front-End, tenho enorme curiosidade em saber como as coisas funcionam e entusiasta de novas tecnologias, busco as tendências de mercado para estudar novas tecnologias e manter atualizado.
 
 Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
  
@@ -15,14 +15,12 @@ Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
  
 ### Principais Habilidades
 - [x] Angular | TypeScript | Angular JS | Javascript | React
-- [x] HTML | CSS
-- [x] Python | Django | Flask | Algumas Bibliotecas 
+- [x] HTML5 | CSS3 | Bootstrap | SASS | SCSS
+- [x] PostgreSQL | Oracle | SQL Server | MySQL | MongoDB
 - [x] Redes | Comunicação dos Computadores | Segurança das Máquinas | Servidores
-- [x] Postgres | Oracle | SQL Server | MySQL | DB2 
-- [x] Docker | Git
-- [x] IntelliJ IDEA | VSCode | DataGrip 
+- [X] Photoshop | Illustrator | Figma | Maya | Blender | SketchUp
+- [x] Docker | Git | Kubernetes
 - [x] Linux | Windows
-- [X] Photoshop | Illustrator | Maya | Blender | Lumion
 
 ### Contatos - Social 
 <div> 
