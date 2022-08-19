@@ -10,6 +10,7 @@ Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
  
 ### Formações
 - 🎓 Ciências da Computação - Universidade Nove de Julho
+- 🎓 Ciências da Computação - Universidade Pontifícia Universidade Católica de São Paulo
 - 🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
 - 🎓 Jogos Digitais - Faculdade Impacta de Tecnologia
  
