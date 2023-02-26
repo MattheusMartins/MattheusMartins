@@ -16,7 +16,7 @@ Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
 - [x] Docker | Git | Kubernetes
 - [x] Linux | Windows
 
-<img src="https://i.imgur.com/EQIZQ4y.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>
+<img src="https://i.imgur.com/EQIZQ4y.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>   <img src="https://i.imgur.com/6RNElWp.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>
 
 
 ### Contatos - Social 
