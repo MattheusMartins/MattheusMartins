@@ -13,6 +13,7 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 
 ### Principais Habilidades
 - [x] PostgreSQL | SQL Server | MySQL | MongoDB
+- [x] Python | JAVA | C/C++ | C#
 - [x] Redes | Comunicação dos Computadores | Segurança das Máquinas | Servidores
 - [x] Docker | Git | Kubernetes
 - [x] pfSense | Zabbix
@@ -25,15 +26,24 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 - 🎓 Redes TCP/IP\
      Certificado: [Clique aqui!](https://i.imgur.com/rjb7DMF.jpg)
      
-- 🎓 Redes Firewall pfSense\
+- 🎓 Firewall pfSense\
      Certificado: [Clique aqui!](https://i.imgur.com/DtZnsZh.jpg)
      
-- 🎓 Redes Firewall Docker, Docker Swarm e Kubernetes\
+- 🎓 Docker, Docker Swarm e Kubernetes\
      Certificado: [Clique aqui!](https://i.imgur.com/D2ecHaN.jpg)
      
-- 🎓 Redes Firewall Zabbix I e II\
+- 🎓 Zabbix I e II\
      Certificado: [Clique aqui!](https://i.imgur.com/HHXCik2.jpg) e [Clique aqui!](https://i.imgur.com/XO4hnAM.jpg)
+          
+- 🎓 Curso Preparatorio Redes de Computadores I ao IV (CompTIA Network+ e CCNA)\
+     
+- 🎓 Zabbix I e II\
+     Certificado: [Clique aqui!](https://i.imgur.com/HHXCik2.jpg) e [Clique aqui!](https://i.imgur.com/XO4hnAM.jpg)
+          
+- 🎓 Banco de Dados\
+     Certificado: [Clique aqui!](https://i.imgur.com/QcxbbR1.jpg)
 
+     
 <img src="https://i.imgur.com/EQIZQ4y.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>   <img src="https://i.imgur.com/6RNElWp.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>
 
 
