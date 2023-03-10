@@ -12,12 +12,10 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
      2014 - 2016 · 3 anos
 
 ### Principais Habilidades
-- [x] Angular | TypeScript | Angular JS | Javascript | React
-- [x] HTML5 | CSS3 | Bootstrap | SASS | SCSS
-- [x] PostgreSQL | Oracle | SQL Server | MySQL | MongoDB
+- [x] PostgreSQL | SQL Server | MySQL | MongoDB
 - [x] Redes | Comunicação dos Computadores | Segurança das Máquinas | Servidores
-- [X] Photoshop | Illustrator | Figma | Maya | Blender | SketchUp
 - [x] Docker | Git | Kubernetes
+- [x] pfSense | Zabbix
 - [x] Linux | Windows
 
 <img src="https://i.imgur.com/EQIZQ4y.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>   <img src="https://i.imgur.com/6RNElWp.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>
