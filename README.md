@@ -36,7 +36,7 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 - 🎓 Zabbix I e II\
      Certificado: [Clique aqui!](https://i.imgur.com/HHXCik2.jpg) e [Clique aqui!](https://i.imgur.com/XO4hnAM.jpg)
           
-- 🎓 Curso Preparatorio Redes de Computadores I ao IV (CompTIA Network+ e CCNA)\
+- 🎓 Curso Preparatorio Redes de Computadores I ao IV (CompTIA Network+ e CCNA)
      
 - 🎓 Zabbix I e II\
      Certificado: [Clique aqui!](https://i.imgur.com/HHXCik2.jpg) e [Clique aqui!](https://i.imgur.com/XO4hnAM.jpg)
