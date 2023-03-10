@@ -18,6 +18,7 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 - [x] Docker | Git | Kubernetes
 - [x] pfSense | Zabbix
 - [x] Linux | Windows
+- [x] Excel | PowerBI
 
 ### Formação Extracurricular
 - 🎓 Arquitetura de Redes\
