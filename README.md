@@ -1,11 +1,15 @@
-## Matheus Martins de Farias :vulcan_salute:
-Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam e entusiasta de novas tecnologias, busco as tendências de mercado para estudar novas tecnologias e manter atualizado.
+## Olá, eu sou o Matheus! 👋
 
-Meu passa tempo é jogar online/conversar com amigos e modelagem 3D.
+Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam e entusiasta de novas tecnologias.
 
 ### Formações
-- 🎓 Ciências da Computação - Universidade Nove de Julho
-- 🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
+- 🎓 Análise e Desenvolvimento de Sistemas\
+     Universidade Nove de Julho\
+     2023 - 2025
+
+- 🎓 Habilitação Profissional de Técnico em Rede de Computadores\
+     Escola Técnica Estadual Parque da Juventude\
+     2014 - 2016 · 3 anos
 
 ### Principais Habilidades
 - [x] Angular | TypeScript | Angular JS | Javascript | React
