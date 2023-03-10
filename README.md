@@ -18,6 +18,10 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 - [x] pfSense | Zabbix
 - [x] Linux | Windows
 
+### Formação Extracurricular
+- 🎓 Arquitetura de Redes\
+     Certificado: [Clique aqui!](https://i.imgur.com/upfg4jG.jpg)
+
 <img src="https://i.imgur.com/EQIZQ4y.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>   <img src="https://i.imgur.com/6RNElWp.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>
 
 
