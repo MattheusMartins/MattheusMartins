@@ -9,7 +9,7 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 
 - 🎓 Habilitação Profissional de Técnico em Rede de Computadores\
      Escola Técnica Estadual Parque da Juventude\
-     2014 - 2016 · 3 anos
+     2015 - 2016 · 2 anos
 
 ### Principais Habilidades
 - [x] PostgreSQL | SQL Server | MySQL | MongoDB
