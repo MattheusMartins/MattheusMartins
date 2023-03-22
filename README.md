@@ -12,41 +12,14 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
      2015 - 2016 · 2 anos
 
 ### Principais Habilidades
-- [x] PostgreSQL | SQL Server | MySQL | MongoDB
-- [x] Python | JAVA | C/C++ | C#
-- [x] Redes | Comunicação dos Computadores | Segurança das Máquinas | Servidores
 - [x] Docker | Git | Kubernetes
-- [x] pfSense | Zabbix
+- [x] PostgreSQL | SQL Server | MySQL | MongoDB
+- [x] JAVA | JavaScript | Typescript | NodeJS | NestJS | ExpressJS
+- [x] API Restful | TypeORM | Microservices | RabbitMQ | Cloud Services 
+- [x] Prisma | Swagger | Spring Boot | Spring Cloud
 - [x] Linux | Windows
 - [x] Excel | PowerBI
-
-### Formação Extracurricular
-- 🎓 Arquitetura de Redes\
-     Certificado: [Clique aqui!](https://i.imgur.com/upfg4jG.jpg)
      
-- 🎓 Redes TCP/IP\
-     Certificado: [Clique aqui!](https://i.imgur.com/rjb7DMF.jpg)
-     
-- 🎓 Firewall pfSense\
-     Certificado: [Clique aqui!](https://i.imgur.com/DtZnsZh.jpg)
-     
-- 🎓 Docker, Docker Swarm e Kubernetes\
-     Certificado: [Clique aqui!](https://i.imgur.com/D2ecHaN.jpg)
-     
-- 🎓 Zabbix I e II\
-     Certificado: [Clique aqui!](https://i.imgur.com/HHXCik2.jpg) e [Clique aqui!](https://i.imgur.com/XO4hnAM.jpg)
-          
-- 🎓 Curso Preparatorio Redes de Computadores I ao IV (CompTIA Network+ e CCNA)
-     
-- 🎓 Zabbix I e II\
-     Certificado: [Clique aqui!](https://i.imgur.com/HHXCik2.jpg) e [Clique aqui!](https://i.imgur.com/XO4hnAM.jpg)
-          
-- 🎓 Banco de Dados\
-     Certificado: [Clique aqui!](https://i.imgur.com/QcxbbR1.jpg)
-
-     
-<img src="https://i.imgur.com/EQIZQ4y.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>   <img src="https://i.imgur.com/6RNElWp.png" alt="Networking Essentials" style="height: 90px; width:90px;"/>
-
 
 ### Contatos - Social 
 <div> 
