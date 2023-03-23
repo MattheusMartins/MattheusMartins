@@ -19,7 +19,10 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 - [x] Prisma | Swagger | Spring Boot | Spring Cloud
 - [x] Linux | Windows
 - [x] Excel | PowerBI
-     
+
+<div>
+<a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white></a>
+</div>    
 
 ### Contatos - Social 
 <div> 
