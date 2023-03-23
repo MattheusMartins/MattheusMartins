@@ -17,8 +17,8 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
 - [x] JAVA | JavaScript | Typescript | NodeJS | NestJS | ExpressJS
 - [x] API Restful | TypeORM | Microservices | RabbitMQ | Cloud Services 
 - [x] Prisma | Swagger | Spring Boot | Spring Cloud
+- [x] Excel | PowerBI | Postman | Isomnia | VSCode
 - [x] Linux | Windows
-- [x] Excel | PowerBI
 
 ### Contatos - Social 
 <div> 
