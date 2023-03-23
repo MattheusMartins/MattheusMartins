@@ -7,6 +7,10 @@ Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme c
      Universidade Nove de Julho\
      2023 - 2025
 
+- 🎓 Ciencias da Computação\
+     Universidade Nove de Julho\
+     2016 - Trancado
+
 - 🎓 Habilitação Profissional de Técnico em Rede de Computadores\
      Escola Técnica Estadual Parque da Juventude\
      2015 - 2016 · 2 anos
