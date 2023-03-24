@@ -1,7 +1,5 @@
 ## Olá, eu sou o Matheus! 👋
 
-Olá! Meu nome é Matheus, tenho 25 anos, moro em Guarulhos - SP. Tenho enorme curiosidade em saber como as coisas funcionam e entusiasta de novas tecnologias.
-
 ### Formações
 - 🎓 Análise e Desenvolvimento de Sistemas\
      Universidade Nove de Julho\
