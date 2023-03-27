@@ -16,6 +16,7 @@
 ### Principais Habilidades
 - [x] Docker | Git | Kubernetes
 - [x] PostgreSQL | SQL Server | MySQL | MongoDB
+- [x] HTML5 | CSS3 | Bootstrap | VueJS | JQuery
 - [x] JAVA | JavaScript | Typescript | NodeJS | NestJS | ExpressJS
 - [x] API Restful | TypeORM | Microservices | RabbitMQ | Cloud Services 
 - [x] Prisma | Swagger | Spring Boot | Spring Cloud
