@@ -14,7 +14,7 @@
      2015 - 2016 · 2 anos
 
 ### Principais Habilidades
-Arquitetura de Redes | Redes TCP/IP | Cabeamento Estruturado| Packet Tracer | Docker | Git | KubernetesExcel | PowerBI | Postman | Isomnia | VSCode | Linux | Windows
+Arquitetura de Redes | Redes TCP/IP | Cabeamento Estruturado | Redes ópticas | Redes wireless | Modelo OSI | Zabbix | Grafana | pfSense | Packet Tracer | Docker | Git | Kubernetes | Excel | PowerBI | Postman | Isomnia | VSCode | Linux | Windows
 
 ### Contatos - Social 
 <div> 
