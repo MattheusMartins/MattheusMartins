@@ -14,14 +14,7 @@
      2015 - 2016 · 2 anos
 
 ### Principais Habilidades
-- [x] Docker | Git | Kubernetes
-- [x] PostgreSQL | SQL Server | MySQL | MongoDB
-- [x] HTML5 | CSS3 | Bootstrap | VueJS | JQuery
-- [x] JAVA | JavaScript | Typescript | NodeJS | NestJS | ExpressJS
-- [x] API Restful | TypeORM | Microservices | RabbitMQ | Cloud Services 
-- [x] Prisma | Swagger | Spring Boot | Spring Cloud
-- [x] Excel | PowerBI | Postman | Isomnia | VSCode
-- [x] Linux | Windows
+Arquitetura de Redes | Redes TCP/IP | Cabeamento Estruturado| Packet Tracer | Docker | Git | KubernetesExcel | PowerBI | Postman | Isomnia | VSCode | Linux | Windows
 
 ### Contatos - Social 
 <div> 
