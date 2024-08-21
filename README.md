@@ -1,10 +1,6 @@
 ## Olá, eu sou o Matheus! 👋
 
 ### Formações
-- 🎓 Pós-Graduação em Business Intelligence Analytics e Big Data\
-     Universidade Nove de Julho\
-     2024 - 2025
-
 - 🎓 Ciências Contábeis\
      Universidade Nove de Julho\
      2022 - 2026
